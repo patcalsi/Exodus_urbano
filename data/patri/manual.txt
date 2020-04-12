@@ -1,0 +1,7 @@
+conda create --name exodus
+conda install python
+conda install jupyter
+conda install pandas
+conda install unidecode
+conda install matplotlib
+
