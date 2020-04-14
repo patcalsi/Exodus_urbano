@@ -1,0 +1,50 @@
+﻿city city_ascii lat lng country iso3 admin_name capital population
+Madrid Madrid 40.4 -3.6834 Spain ESP Madrid primary 5567000
+Barcelona Barcelona 41.3833 2.1834 Spain ESP Catalonia admin 4920000
+Sevilla Sevilla 37.405 -5.98 Spain ESP Andalusia admin 1212045
+Bilbao Bilbao 43.25 -2.93 Spain ESP Basque_Country minor 875552
+Valencia Valencia 39.485 -0.4 Spain ESP Valencia admin 808000
+Zaragoza Zaragoza 41.65 -0.89 Spain ESP Aragon admin 649404
+Málaga Malaga 36.7204 -4.42 Spain ESP Andalusia minor 550058
+Murcia Murcia 37.98 -1.13 Spain ESP Murcia admin 406807
+Granada Granada 37.165 -3.585 Spain ESP Andalusia minor 388290
+Vigo Vigo 42.22 -8.73 Spain ESP Galicia  378952
+Las_Palmas_de_Gran_Canaria Las_Palmas_de_Gran_Canaria 28.1 -15.43 Spain ESP Canary_Islands admin 378495
+Palma Palma 39.5743 2.6542 Spain ESP Balearic_Islands admin 375773
+A_Coruña A_Coruna 43.33 -8.42 Spain ESP Galicia minor 370610
+Donostia Donostia 43.3204 -1.98 Spain ESP Basque_Country minor 357468
+Santa_Cruz_de_Tenerife Santa_Cruz_de_Tenerife 28.47 -16.25 Spain ESP Canary_Islands admin 336061
+Gijón Gijon 43.53 -5.67 Spain ESP Asturias  335972
+Valladolid Valladolid 41.65 -4.75 Spain ESP Castille-Leon admin 322304
+Córdoba Cordoba 37.88 -4.77 Spain ESP Andalusia minor 321376
+Alicante Alicante 38.3512 -0.4836 Spain ESP Valencia minor 315863
+Cádiz Cadiz 36.535 -6.225 Spain ESP Andalusia minor 283157
+Pamplona Pamplona 42.82 -1.65 Spain ESP Navarre admin 274545
+Oviedo Oviedo 43.3505 -5.83 Spain ESP Asturias admin 235651
+Vitoria-Gasteiz Vitoria-Gasteiz 42.85 -2.67 Spain ESP Basque_Country admin 224578
+Santander Santander 43.3805 -3.8 Spain ESP Cantabria admin 208763
+Cartagena Cartagena 37.6004 -0.98 Spain ESP Murcia  201274
+Marbella Marbella 36.5166 -4.8833 Spain ESP Andalusia  186131
+Mataró Mataro 41.54 2.45 Spain ESP Catalonia  183293
+Castellón_de_la_Plana Castellon_de_la_Plana 39.9704 -0.05 Spain ESP Valencia minor 180610
+Almería Almeria 36.8303 -2.43 Spain ESP Andalusia minor 179405
+Burgos Burgos 42.3504 -3.68 Spain ESP Castille-Leon minor 170183
+Salamanca Salamanca 40.9704 -5.67 Spain ESP Castille-Leon minor 162353
+Albacete Albacete 39.0003 -1.87 Spain ESP Castille-La_Mancha minor 158094
+Huelva Huelva 37.2504 -6.9299 Spain ESP Andalusia minor 144174
+Logroño Logrono 42.4704 -2.43 Spain ESP La_Rioja admin 143698
+Ciudad_de_Melilla Ciudad_de_Melilla 35.3 -2.95 Spain ESP Melilla  141308
+Badajoz Badajoz 38.8804 -6.97 Spain ESP Extremadura minor 140133
+León Leon 42.58 -5.57 Spain ESP Castille-Leon minor 136227
+Tarragona Tarragona 41.1204 1.25 Spain ESP Catalonia minor 126291
+Ourense Ourense 42.33 -7.87 Spain ESP Galicia minor 118107
+Jaén Jaen 37.7704 -3.8 Spain ESP Andalusia minor 116400
+Algeciras Algeciras 36.1267 -5.4665 Spain ESP Andalusia  111027
+Santiago_de_Compostela Santiago_de_Compostela 42.8829 -8.5411 Spain ESP Galicia admin 92430
+Ciudad_de_Ceuta Ciudad_de_Ceuta 35.889 -5.307 Spain ESP Ceuta  78674
+Toledo Toledo 39.867 -4.0167 Spain ESP Castille-La_Mancha admin 74632
+Arrecife Arrecife 28.969 -13.5378 Spain ESP Canary_Islands  52944
+Mérida Merida 38.912 -6.338 Spain ESP Extremadura admin 52423
+Lorca Lorca 37.6886 -1.6985 Spain ESP Murcia  86119
+Guadalajara Guadalajara 40.6337 -3.1666 Spain ESP Castille-La_Mancha minor 72850
+Linares Linares 38.0833 -3.6334 Spain ESP Andalusia  59761
