@@ -4,4 +4,6 @@ conda install jupyter
 conda install pandas
 conda install unidecode
 conda install matplotlib
+conda install -c conda-forge fuzzywuzzy
+
 
