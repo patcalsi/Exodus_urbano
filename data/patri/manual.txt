@@ -5,5 +5,7 @@ conda install pandas
 conda install unidecode
 conda install matplotlib
 conda install -c conda-forge fuzzywuzzy
+conda install -c intel scikit-learn
+conda install -c anaconda seaborn 
 
 
